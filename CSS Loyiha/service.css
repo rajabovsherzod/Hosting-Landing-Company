@@ -1,0 +1,307 @@
+.service-main-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    height: 1000px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.service-page-introduction-section{
+    padding: 190px 0px 152.1px;
+}
+.service-page-introduction-section-box-contents{
+    display: flex;
+    justify-content: space-between;
+}
+.service-page-intro{
+    width: 45%;
+    padding-top: 65px;
+    display: flex;
+    flex-direction: column;
+}
+
+.service-page-intro h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    color: #ffffff;
+    line-height: 1.2em;
+    margin: 0;
+}.service-page-intro p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 2em;
+    width: 110%;
+    margin-top: 0px;
+    padding: 10px 0px;
+}
+.service-page-intro-button{
+    background-color: #263547;
+}
+.service-page-introduction-section-box{
+    padding: 0px 60px;
+}
+.service-page-intro-image img{
+    width: 510.3px;
+    height: auto;
+}
+.check-info{
+    display: flex;
+}
+.sign-check{
+    color: #ffffff;
+    font-size: 22px;
+}
+.check-text{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+}
+.check-text-div{
+    padding: 0px 0px 32px;
+    padding-left: 20px;
+}
+
+/* Features Section */
+.service-features-backgraund{
+    background: linear-gradient(180deg, #ffffff 0%, #fcfcfc 30%, #f9f9f9 50%, #fcfcfc 80%, #ffffff 100%);
+}
+.service-features-section{
+    padding: 54px 0px;
+}
+.section-introduction-div-d{
+    padding: 27px 0px;
+}
+.section-introduction-div-d h2{
+    margin: 0px 0px 10px;
+}
+.section-introduction-div-d h3{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.4em;
+    margin: 0px 0px 10px;
+}
+.service-features-box-cards{
+    padding: 27px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.service-features-box-card{
+    width: 30%;
+}
+.service-features-box-card-image{
+    margin: 0px 0px 30px 30px;
+}
+.small-line{
+    width: 60px;
+    height: 2px;
+    background-color: #ff8f00;
+    margin: 0px 0px 23px 30px;
+}
+.service-features-box-card-text{
+    padding: 0px 40px 30px 30px;
+    background-color: #ffffff;
+    border-radius: 24px;
+}
+.service-features-box-card-text-main-text{
+    padding: 0px 0px 20px;
+}
+.service-features-box-card-text-main-text h2{
+    margin: 0px 0px 10px;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 23px;
+    color: #333333;
+}
+.service-features-box-card-text-main-text p{
+    margin: 0;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    line-height: 2em;
+}
+.click-here-link{
+    padding: 3.9px 26px 3.9px 9.1px;
+}
+.click-here-link a{
+    color: #2970fa;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.arrov-margin{
+    margin: 0px 0px 0px 3.9px;
+}
+
+.lorem-ipsum-dolar-box{
+    padding: 54px 0px;
+}
+.lorem-imsum-dolar-box-content{
+    display: flex;
+    padding: 27px 50px;
+    justify-content: space-between;
+ }
+.service-lorem-imsum-dolar-line-card{
+    display: flex;
+    width: 30%;
+}
+.service-lorem-imsum-dolar-line-card-text{
+    padding: 0px 0px 0px 15px;
+}
+.service-lorem-imsum-dolar-line-card-text span{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
+    padding: 0px 0px 10px;
+}
+.service-lorem-imsum-dolar-line-card-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    width: 90%;
+    margin: 0;
+    padding: 12px 0px;
+}
+
+.pricing-section-padding{
+    margin: 0;
+    padding: 54px 0px;
+}
+.pricing-contents-justifay{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.pricing-content-margin{
+    margin: 0;
+    width: 23%;
+}
+.main-pricing-banner-back{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #d8f0fd 100%) !important;
+}
+.button-justifay-center{
+    display: flex;
+    justify-content: center;
+}
+.button-justifay-center button{
+    margin: 0;
+}
+
+/* F.A.Q Section */
+.service-faq-section{
+    padding: 54px 0px 54px;
+}
+.faq-questions-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.faq-questions{
+    padding: 20px 0px;
+    width: 47%;
+}
+.faq-card{
+    display: flex;
+    padding: 0px 50px 0px 0px;
+}
+.faq-question{
+    width: 100%;
+}
+.faq-question h5{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 16px;
+    color: #666666;
+}
+.faq-question-sign-plus{
+    width: 16px;
+    height: 16px;
+    background-color: #ccc;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.plus-sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.faq-line{
+    width: 91%;
+    height: 0.5px;
+    background-color: #ccc;
+    margin-top: -8px;
+}
+.padding-left-70px{
+    padding-left: 70px;
+}
+.faq-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/* Live Chat Section */
+.service-live-chat-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-02.png), linear-gradient(150deg, #ffba61 0%, #ffe970 100%) !important;
+    background-repeat: no-repeat;
+    min-height: 350px;
+}
+.service-live-chat-section{
+    padding: 229.2px 0px 122.24px;
+}
+.service-live-chat-box{
+    padding: 0px 30px;
+}
+.service-live-chat-box-contents{
+    padding: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.service-live-chat-box-contents h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    margin: 0;
+    padding: 0px 0px 10px;
+    color: #ffffff;
+    width: 60%;
+    text-align: center;
+    line-height: 1.2em;
+}
+.service-live-chat-box-contents p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 0px 0px 15px 0px;
+    width: 63%;
+    text-align: justify;
+    text-align-last: center;
+    line-height: 2em;
+}
+.service-live-chat-button{
+    margin: 15px 0px 0px 0px;
+}
+.service-live-chat-button button{
+    background-color: #263547;
+    width: 155px;
+}
+
+/* Customers-Section */
+.customer-section-padding{
+    margin: 0;
+    padding: 108px 0px 54px 0px;
+}
+.customers-backgraund{
+    background: linear-gradient(180deg, #ffffff 0%, #f6f6f6 30%, #f9f9f9 50%, #f6f6f6 80%, #ffffff 100%) !important;
+}
+.satisfaction-guaranted-section-padding{
+    margin: 0px;
+    padding: 54px 0px;
+}

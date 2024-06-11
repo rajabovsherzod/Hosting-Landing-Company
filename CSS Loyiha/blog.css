@@ -1,0 +1,183 @@
+.blog-main-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #eef9ff 100%) !important;
+    background-repeat: no-repeat;
+    min-height: 490px;
+    
+}
+.blog-section-introduction{
+    padding: 150px 0px 100px;
+}
+.blog-section-introduction-box-contents{
+    display: flex;flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.blog-section-introduction-box-contents h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    padding: 70px 0px 60px;
+    margin: 0;
+}
+.blog-section-introduction-box-contents button{
+    background-color: #263547;
+    width: 160px;
+    box-shadow: 0px 3px 16px 0px #263547;
+}
+/* Blog Contents */
+.blog-contents-section{
+    padding: 54px 0px;
+    background: linear-gradient(180deg, #ffffff 0%, #f4f4f4 30%, #f6f6f6 50%, #f4f4f4 80%, #ffffff 100%);
+}
+.blog-content-items-box{
+    padding: 27px 60px;
+}
+.blog-content-items{
+    display: flex;
+    justify-content: space-between;
+}
+.blog-content-items-row{
+    width: 29.5%;
+}
+.blog-content-items-row-item img{
+    width: 100%;
+    height: auto;
+    border-radius: 24px 24px 0px 0px;
+}
+.blog-content-items-row-item{
+    background-color: #ffffff;
+    border-radius: 24px;
+}
+.blog-content-items-row-item-texts{
+    padding: 19px;
+}
+.blog-content-items-row-item-texts-main-link{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    color: #333333;
+    font-weight: 600;
+    text-decoration: none;
+}
+.blog-content-items-row-item-texts-firs-text-and-link{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 12px;
+    color: #ff8f00;
+    font-weight: 600;
+    padding: 10px 0px;
+    margin: 0px;
+}
+.blog-content-items-row-item-texts-last-link{
+    color: #ff8f00;
+    text-decoration: none;
+    margin: 0px;
+}
+.blog-content-items-row-item-texts-main-text{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 2em;
+    color: #666666 !important;
+    margin: 0px;
+}
+.blog-content-items-row-item-margin{
+    margin: 0px 0px 60px;
+}
+
+/* For Developers and IT */
+.for-developers-and-it-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-12.png), linear-gradient(180deg, #eef9ff 0%, #eef9ff 40%, #eef9ff 60%, #eff9ff 90%, #ffffff 100%) !important;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+.for-developers-and-it-scetion{
+    padding: 54px 0px;
+}
+.for-developers-and-it-scetion-box{
+    padding: 27px 60px;
+}
+.for-developers-and-it-scetion-box-items{
+    display: flex;
+    justify-content: space-between;
+}
+.for-developers-and-it-items-row{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 38px;
+    margin: 0;
+    color: #333333;
+    padding: 0px 0px 10px;
+}
+.for-developers-and-it-items-row{
+    width: 42%;
+}
+.for-developers-and-it-items-row-item{
+    background-color: #ffffff;
+    border-radius: 24px;
+}
+.for-developers-and-it-items-row-item img{
+    width: 100%;
+    height: auto;
+    border-radius: 24px 24px 0px 0px;
+}
+.for-developers-and-it-items-row-item-short-margin{
+    margin: 0px 0px 50px;
+}
+.older-entries-link{
+    padding: 25px 0px 0px;
+}
+.older-entries-link a{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 20px;
+    color: #2970fa;
+    text-decoration: none;
+    font-weight: 600;
+}
+/* Join Our Newsletter for Updates & Offers */
+.updates-and-offers-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-12.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    background-repeat: no-repeat;
+    min-height: 570px;
+}
+.updates-and-offers-section{
+    padding: 306.08px 0px 100px;
+}
+.updates-and-offers-box{
+    padding: 27px 60px;
+}
+.updates-and-offers-box-items{
+    display: flex;
+    justify-content: space-between;
+}
+.updates-and-offers-box-items h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 46px;
+    color: #ffffff;
+    width: 46%;
+    line-height: 1.2em;
+    margin: 0;
+    padding: 0px 0px 10px;
+}
+
+.updates-and-offers-box-items-input-and-button{
+    display: flex;
+    flex-direction: column;
+    width: 46%;
+}
+.updates-and-offers-box-items-input-and-button input{
+    border-radius: 5px;
+    padding: 14px 20px;
+    border: none;
+    outline: none;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    margin: 0px 0px 15px;
+}
+.updates-and-offers-box-items-input-and-button button{
+    width: 100%;
+    background-color: #263547;
+}

@@ -1,0 +1,267 @@
+.contact-banner{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #fbfbfb 0%, #d8f0fd 100%) !important;
+    background-size: contain;
+    background-position: center bottom 0px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.contact-section{
+    margin-top: 100px;
+    padding: 48.4px 0px;
+}
+.contact-section-box{
+    display: flex;
+    margin: 0px 0px 0px 70px;
+}
+.contact-content{
+    width: 42%;
+}
+.contact-content h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 50px;
+    color: #333333;
+    font-weight: bolder;
+}
+.contact-content-p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #666666;
+    font-weight: 500;
+    line-height: 2em;
+    width: 110%;
+}
+.contact-info{
+    width: 90%;
+    height: 350px;
+    background-color: #ffba61;
+    padding: 70px 40px 30px;
+    border-radius: 24px;
+    margin-top: 40px;
+}
+
+.contact-info-sign{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-info-sign-span{
+    font-size: 20px;
+    color: #ffba61;
+}
+.contact-info-adress{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: -70px;
+}
+.contact-info-adress-h4{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.contact-info-adress-p{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: -12px;
+}
+.contact-info-adress-location-p{
+    text-align-last: center;
+    width: 90%;
+}
+.contact-info-1, .contact-info-2{
+    margin-bottom: 60px;
+}
+.contact-info-1{
+    margin-top: -10px;
+}
+.contact-type-section{
+    padding: 48.4px 0px;
+}
+.contact-type-section{
+    width: 35%;
+    height: 578.79px;
+    color: #666666;
+    background-color: #ffffff;
+    border-radius: 24px;
+    margin-top: 42px;
+    margin-left: 100px;
+    padding: 50px 40px;
+}
+.contact-type-input{
+    margin-bottom: 50px;
+}
+.contact-input:focus{
+    outline: none;
+}
+.contact-input{
+    width: 355.12px;
+    height: 45.84px;
+    padding: 0px 16px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #f8fafe;
+    border-width: 1px;
+    border: 1px solid #dfe4f3;
+    overflow: hidden;
+    color: #333333;
+}
+.contact-textarea{
+    width: 355.12px;
+    height: 121.84px;
+    padding: 0px 16px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #f8fafe;
+    border-width: 1px;
+    border-color: #dfe4f3;
+    overflow: hidden;
+    color: #333333;
+    font-family: "Open Sans", Arial, sans-serif;
+    padding: 16px;
+}
+.contact-textarea:focus{
+    outline: none;
+}
+.contact-input-button{
+    background-color: #263547;
+    color: #ffffff;
+    height: 50px;
+    width: 100px;
+    font-size: 13px;
+    margin-top: 30px;
+    float: right;
+    margin-right: 10px;
+}
+
+/* Support Section */
+.support-section{
+    margin-top: 150px;
+}
+.support-section-information{
+    display: flex;
+    margin: 0px 0px 0px 70px;
+}
+.support-section-information-text{
+    width: 45%;
+}
+.support-section-information-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 15px;
+    color: #666666;
+    font-weight: 500;
+    line-height: 2em;
+    width: 93%;
+    margin-top: -20px;
+}
+.support-section-information-email-and-number{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 50px;
+}
+.support-email a{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #2970fa;
+    text-decoration: none;
+    letter-spacing: 1.2px;
+}
+.support-email{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.support-section-information-email-and-number button{
+    margin-bottom: 30px;
+    box-shadow: 0px 3px 16px 0px #2970fa;
+}
+.support-phone-number{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    padding: 0px 0px 10px;
+}
+
+/* Map Section */
+.map-section{
+    padding: 54px 0px;
+    margin-top: 54px;
+}
+.map-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #eef9ff 100%) !important;
+    width: 600px;
+}
+.map img{
+    width: 99.9%;
+}
+
+/* F.A.Q Section */
+.faq-section{
+    padding: 54px 0px;
+}
+.faq-questions-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.faq-questions{
+    padding: 20px 0px;
+    width: 47%;
+}
+.faq-card{
+    display: flex;
+    padding: 0px 50px 0px 0px;
+}
+.faq-question{
+    width: 100%;
+}
+.faq-question h5{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 16px;
+    color: #666666;
+}
+.faq-question-sign-plus{
+    width: 16px;
+    height: 16px;
+    background-color: #ccc;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.plus-sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.faq-line{
+    width: 91%;
+    height: 0.5px;
+    background-color: #ccc;
+    margin-top: -8px;
+}
+.padding-left-70px{
+    padding-left: 70px;
+}
+.faq-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+

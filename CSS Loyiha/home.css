@@ -1,0 +1,178 @@
+.home-main-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    min-height: 900px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.home-page-introduction-section{
+    padding: 190px 0px 152.1px;
+}
+.home-page-introduction-section-box-contents{
+    display: flex;
+    justify-content: space-between;
+}
+.home-page-intro{
+    width: 45%;
+    padding-top: 65px;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-page-intro h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    color: #ffffff;
+    line-height: 1.2em;
+    margin: 0;
+}.home-page-intro p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 2em;
+    width: 110%;
+    margin-top: 0px;
+    padding: 10px 0px;
+}
+.home-page-intro-button{
+    background-color: #263547;
+}
+.home-page-introduction-section-box{
+    padding: 0px 60px;
+}
+.home-page-intro-image img{
+    width: 510.3px;
+    height: auto;
+}
+.home-page-intro button{
+    background-color: #263547;
+    width: 210px;
+}
+
+.home-img-and-text-info{
+    padding: 54px 0px;
+}
+.home-img-and-text-info-contents{
+    padding: 27px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.home-img-and-text-info-contents-item{
+    display: flex;
+    width: 30%;
+}
+.home-img-and-text-info-contents-item-text{
+    padding: 0px 0px 0px 15px;
+}
+.home-img-and-text-info-contents-item-text p{
+    margin: 0;
+    line-height: 2em;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+}
+.home-img-and-text-info-contents-item img{
+    width: 60px;
+    height: 60px;
+}
+
+/* Watch Section */
+.watch-section{
+    padding: 54px 0px;
+}
+.watch-box{
+    padding: 27px 60px;
+}
+.watch-content-video iframe{
+    width: 100%;
+    height: 608px;
+    border-radius: 24px;
+}
+
+/* Pricing */
+.pricing-section-padding{
+    margin: 0;
+    padding: 54px 0px;
+}
+.pricing-contents-justifay{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.pricing-content-margin{
+    margin: 0;
+    width: 23%;
+}
+.main-pricing-banner-back{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #d8f0fd 100%) !important;
+}
+.button-justifay-center{
+    display: flex;
+    justify-content: center;
+}
+.button-justifay-center button{
+    margin: 0;
+}
+
+/* Info Box */
+.home-info-background{
+    background: linear-gradient(180deg, #ffffff 0%, #f4f4f4 30%, #f9f9f9 50%, #f4f4f4 80%, #ffffff 100%) !important;
+}
+.home-info-box{
+    padding: 54px 0px;
+}
+.home-information-include-box{
+    padding: 0px 60px;
+}
+.home-section-information-box{
+    padding: 0px 64.8px;
+    background-color: #ffffff !important;
+    border-radius: 24px;
+}
+.home-section-information{
+    padding: 137.52px 0px 54px;
+}
+.home-section-information-box-content-text{
+    padding: 133.05px 76.025px 50px;
+}
+.home-section-information-box-content-text h2{
+    padding: 0px 0px 10px;
+    font-size: 30px;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    color: #2970fa;
+    line-height: 2em;
+    text-align: center;
+    margin: 0;
+}
+.home-section-information-box-content-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #0000005e;
+    text-align: center;
+    margin: 0;
+}
+.controller-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+.controllers-dot{
+    display: flex;
+    width: 40px;
+    justify-content: space-between;
+}
+.controller-dot{
+    background-color: #82a9f6;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+.active-dot{
+    background-color: #2970fa;
+}
+
+.satisfaction-guaranted-section-padding{
+    margin: 0;
+    padding: 81px 0px 54px 0px;
+}

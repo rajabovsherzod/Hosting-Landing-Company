@@ -1,0 +1,757 @@
+.main-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    min-height: 880px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.main-section__info h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 1.2em;
+    color: white;
+}
+.main-section__info p{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    margin-top: -35px;
+    line-height: 32px;
+}
+.main-section__action{
+    color: #ffffff !important;
+    border-width: 0px !important;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif !important;
+    text-transform: uppercase !important;
+    background-color: #263547;
+    height: 45px;
+    width: 200px;
+    cursor: pointer;
+}
+.main-section__info__content{
+ display: inline-block;
+  margin-top: 12.25rem;
+  font-size: 3.75rem;
+  font-weight: 500;
+  margin-bottom: 1.25rem;
+  width: 500px;
+  margin-left: 4.5rem;
+}
+.main-section{
+    display: inline-block;
+}
+.main-image img{
+    width: 500px;
+    height: 510px;
+}
+.main-section-right{
+    display: inline-block;
+    float: right;
+    margin-top: 190px;
+    margin-right: 80px;
+}
+.domens_cost{
+    display: flex;
+    margin-top: -25px;
+}
+.domen_cost{
+    padding-right: 70px;
+}
+.domen_info{
+    padding-left: 40px;
+}
+.domen-name{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+.domen-dot{
+    color: #0752fe;
+}
+.domen-price{
+    font-size: 14px;
+    color: #00000066;
+}
+.section-introduction-name{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #ff8f00 !important;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+}
+.section-introduction-info{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.4em;
+    margin-top: -5px;
+}
+.section-introduction-name-center{
+    text-align: center;
+}
+.section-introduction-info-center{
+    text-align: center;
+}
+.service-info__introduction{
+    display: inline-block;
+    width: 650px;
+    padding: 102.6375px 0px 0px 70px;
+    margin-left: 20px;
+}
+button{
+    color: #ffffff !important;
+    border-width: 0px !important;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif !important;
+    text-transform: uppercase !important;
+    background-color: #0752fe;
+    height: 50px;
+    width: 180px;
+    cursor: pointer;
+}
+.service-info-card-1{
+    width: 280px;
+    margin-right: 50px;
+    margin-top: 114px;
+    display: inline-block;
+    float: right;
+    padding: 10px 30px 30px 30px;
+}
+.service-info-card-2, .service-info-card-3{
+    width: 280px;
+    display: inline-block;
+    padding: 10px 30px 30px 30px;
+    margin-top: 10px;
+    margin-left: -5px;
+}
+.service-info-card-4{
+    float: right;
+    margin-top: -340px;
+    width: 280px;
+    display: inline-block;
+    padding: 10px 30px 30px 30px;
+    margin-right: 28px;
+}
+.service-info-card-3{
+    margin-left: 80px;
+}
+.service-info-card-1 img{
+    margin-left: 25px;
+}
+.service-info-card__line-1{
+    background-color: #ff8f00;
+    width: 65px;
+    height: 2px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.service-info-card__line-2{
+    background-color: #ff8f00;
+    width: 65px;
+    height: 2px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.service-info-card-information{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    width: 100%;
+    height: 100%;
+}
+.service-info-card-information-2{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    width: 100%;
+    height: 100%;
+    margin-left: -30px;
+}
+.service-info-card-information-2 h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif !important;
+    line-height: 1.4em !important;
+    color: #333333;
+    font-size: 25px;
+    margin-top: -10px;
+}
+.service-info-card-information h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif !important;
+    line-height: 1.4em !important;
+    color: #333333;
+    font-size: 25px;
+    margin-top: -10px;
+}
+.service-info-card-information-text{
+    margin-top: -10px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    background-color: #fff;
+    line-height: 2em;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    -webkit-font-smoothing: antialiased;
+}
+.more-service-information{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.more-service-information a{
+    text-transform: uppercase;
+    color: #0752fe;
+    text-decoration: none;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif !important;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+/* Features Section */
+.features-section{
+    margin-top: 230px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.features-info, .file-managment-info{
+    display: inline-block;
+    width: 45%;
+    margin-left: 70px;
+}
+.features-info h3{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.4em;
+    margin-top: -5px;
+}
+.features-info p{
+    width: 90%;
+    margin-top: -10px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #666666;
+    background-color: #fff;
+    line-height: 2em;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    -webkit-font-smoothing: antialiased
+}
+.features-image{
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.features-image img{
+    width: 520px;
+    height: 305px;
+}
+.features-item p{
+    display: inline-block;
+    font-size: 14px;
+    width: 70%;
+    margin-left: 10px;
+    font-family: "Open Sans", Arial, sans-serif;
+    color: #666666;
+    line-height: 28px;
+}
+.features-items-part-1, .features-items-part-2{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.features-items-part-1{
+    margin-top: 120px;
+}
+.features-items-part-2{
+    margin-top: 35px;
+}
+.features-item{
+    display: inline-block;
+    width: 31%;
+    margin-right: 21px;
+    justify-content: center;
+}
+.features-item img{
+    width: 60px;
+}
+
+/* Pricing Section */
+.main-pricing-banner{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #fbfbfb 0%, #d8f0fd 100%) !important;
+    background-size: contain;
+    background-position: center bottom 0px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.pricing-section{
+    margin-top: 108px;
+}
+.pricing-contents{
+    display: flex;
+}
+.pricing-content{
+    margin-left: 30px;
+}
+.pricing-content{
+    height: auto;
+    width: 100%;
+    padding: 30px 40px;
+    background-color: #ffffff;
+}
+.pricing-content-intro-1{
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.pricing-content-intro-2{
+    color: #2970fa !important;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.pricing-content-intro-3{
+    color: #29cf8d !important;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.pricing-content-price-div{
+    margin-top: 25px;
+}
+.pricing-content-text{
+    margin-top: 40px;
+}
+.pricing-content-price-sign{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 18px;
+    color: #999999;
+    margin: 0px 0px 0px -9px;
+    margin-top: -30px;
+}
+.pricing-content-price-include{
+    margin-top: -10px;
+}
+.pricing-content-price{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 50px;
+    color: #000000;
+    font-weight: 600;
+}
+.pricing-content-periot{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #999999;
+}
+.pricing-content{
+    width: 25%;
+    border-radius: 30px;
+}
+
+.pricing-content-text-dot-1{
+    color: #ff8f00;
+    font-size: 16px;
+    margin-left: -20px;
+}
+.pricing-content-text-dot-2{
+    color: #2970fa;
+    font-size: 16px;
+    margin-left: -20px;
+}
+.pricing-content-text-dot-3{
+    color: #29cf8d;
+    font-size: 16px;
+    margin-left: -20px;
+}
+.pricing-content-text-ul{
+    padding-bottom: 16px;
+}
+.pricing-content-text-info{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #666666;
+}
+.pricing-content-text-info-dif-color{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #cccccc;
+}
+
+.pricing-button-1{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(255, 143, 0, 0.1);
+    color: #ff8f00 !important;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+}
+.pricing-button-2{
+    width: 150px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+}
+.pricing-button-3{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(41, 207, 141, 0.1);
+    color: #29cf8d !important;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+}
+
+/* File Managment Section */
+.file-managment-section{
+    display: flex;
+    padding: 54px 0px;
+}
+.file-managment-main-info{
+    display: flex;
+}
+.file-managment-main-info-image{
+    display: flex;
+    height: 40px;
+    width: 40px;
+}
+.file-managment-main-info-text{
+    display: inline-block;
+    margin-left: 16px;
+    margin-bottom: 18px;
+}
+
+.file-managment-main-info-text-header-text{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    color: #333333;
+    font-weight: 600;
+}
+
+.file-managment-main-info-text-header-text-body-text{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    line-height: 2em;
+    width: 95%;
+    margin-top: 8px;
+}
+
+.file-managment-main-image-and-button{
+    display: inline-block;
+    float: right;
+    margin-right: 45px;
+    margin-top: 10px;
+}
+.file-managment-main-image img{
+    width: 510.3px;
+    height: 433.75px;
+}
+
+.file-managment-main-button{
+    margin-top: 20px;
+}
+.file-managment-main-button a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Live Chat Section */
+.live-chat-main-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-02.png), linear-gradient(150deg, #ffba61 0%, #ffe970 100%) !important;
+    height: 600px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    vertical-align: baseline;
+}
+.live-chat-introduction{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.live-chat-introduction h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 0px 0px 10px;
+    margin-top: 260px;
+    width: 70%;
+    line-height: 60px;
+}
+
+.live-chat-introduction p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 2em;
+    width: 58%;
+    margin-top: -30px;
+    text-align: justify;
+    word-wrap: break-word;
+    text-align-last: center;
+}
+.live-chat-button{
+    background-color: #263547;
+    margin-top: 18px;
+}
+
+/* Easy Setup Section */
+.easy-setup-section{
+    padding: 54px 0px;
+}
+.easy-setup-section-contents{
+    display: flex;
+}
+.easy-setup-section-main-image{
+    margin-left: 50px;
+}
+.easy-setup-section-main-image img{
+    width: 510.3px;
+    height: 542.19px;
+}
+.easy-setup-section-information{
+    margin-left: 60px;
+}
+.easy-setup-section-contents p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #666666;
+    line-height: 2em;
+    width: 75%;
+    margin-top: -25px;
+}
+.easy-setup-section-information-check-info{
+    display: flex;
+    margin-top: 31px;
+}
+.easy-setup-section-information-check-info-check-sign{
+    color: #ff8f00;
+    font-size: 22px;
+}
+.easy-setup-section-information-check-info-text-item{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #333333;
+    font-weight: 600;
+    margin-left: 25px;
+    width: 100%;
+}
+.easy-setup-section-button{
+    margin-top: 35px;
+}
+
+/* Customers Section */
+.customer-section{
+    margin-top: 100px;
+}
+.customers-opinion{
+    display: flex;
+    margin-top: 60px;
+}
+.customer-opinion-card{
+    width: 28%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.customer-opinion-card-image{
+    display: flex;
+    justify-content: center;
+}
+.customer-opinion-card-image img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    text-align: center;
+}
+.customer-opinion-card-text{
+    display: flex;
+    text-align: center;
+    width: 90%;
+    line-height: 2em;
+    margin-top: 25px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+}
+.customer-name{
+    margin-top: 32px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #666666;
+    font-weight: 600;
+}
+.customer-job{
+    margin-top: -1px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+}
+.customer-card-2, .customer-card-3{
+    margin-left: 70px;
+}
+
+/* Satisfaction Guaranteed Section */
+.satisfaction-guaranted-section{
+    margin-top: 160px;
+}
+.satisfaction-guaranted-section-main-div{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 70px;
+}
+.satisfaction-guaranted-content h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 26px;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 0px 0px 10px;
+}
+.satisfaction-guaranted-content p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    display: flex;
+    text-align: justify;
+    line-height: 2em;
+    word-break: break-all;
+}
+.satisfaction-guaranted-contents-1{
+    background-position: left bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-06.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%);
+    background-color: #7EBEC5;
+    border-radius: 24px 24px 24px 24px;
+    overflow: hidden;
+    background-size: cover;
+    padding: 40px;
+    width: 40%;
+}
+.satisfaction-guaranted-contents-2{
+    background-position: left bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-07-1.png), linear-gradient(150deg, #ffba61 0%, #ffdc71 100%);
+    background-color: #7EBEC5;
+    border-radius: 24px 24px 24px 24px;
+    overflow: hidden;
+    background-size: cover;
+    padding: 40px;
+    width: 40%;
+    margin-left: 70px;
+}
+.satisfaction-guaranted-content-contact-us-button{
+    background-color:#263547;
+    width: 140px;
+}
+
+/* 30 Days Free Hosting Section */
+.free-hosting-section{
+    margin-top: 90px;
+}
+.free-hosting-main-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-11.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    height: 740px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    vertical-align: baseline;
+}
+.free-hosting-introduction{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.free-hosting-introduction h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 0px 0px 10px;
+    margin-top: 260px;
+    width: 70%;
+    line-height: 60px;
+    margin-top: 330px;
+}
+
+.free-hosting-introduction p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 2em;
+    width: 58%;
+    margin-top: -30px;
+    text-align: justify;
+    word-wrap: break-word;
+    text-align-last: center;
+}
+.free-hosting-button{
+    background-color: #263547;
+    margin-top: 18px;
+    width: 160px;
+}
+/* Footer Section */
+#main-footer{
+    background-color: #000000;
+    height: 70px;
+}
+.footer-section{
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+.footer-section-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 18px;
+    color: #666666;
+    font-weight: 500;
+}
+.footer-bolder-text{
+    font-weight: 600;
+}
+.footer-section-icon a{
+    color: #666666;
+    font-size: 36px;
+    margin-left: 25px;
+}
+.footer-section-icon{
+    margin-left: 520px;
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+}

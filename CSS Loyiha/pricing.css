@@ -1,0 +1,475 @@
+.pricing-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(150deg, #ffba61 0%, #ffe970 100%) !important;
+    min-height: 820px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.main-pricing-section__info{
+    padding: 50px 0px 169.778px;
+    padding-left: 21px;
+    display: flex;
+}
+.main-pricing-section__info h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 1.2em;
+    color: white;
+    width: 120%;
+}
+.main-pricing-section__info p{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    margin-top: -35px;
+    line-height: 32px;
+    width: 100%;
+}
+.main-pricing-section__action{
+    color: #ffffff !important;
+    border-width: 0px !important;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif !important;
+    text-transform: uppercase !important;
+    background-color: #263547;
+    height: 55px;
+    width: 180px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+.main-pricing-section__info__content{
+    display: inline-block;
+     margin-top: 9.25rem;
+     font-size: 3.75rem;
+     font-weight: 500;
+     margin-bottom: 1.25rem;
+     width: 45%;
+     margin-left: 4.5rem;
+   }
+   .main-pricing-section{
+       display: inline-block;
+   }
+   .main-pricing-image img{
+       width: 380px;
+       height: 440px;
+   }
+   .main-pricing-image{
+    margin-left: 40px;
+   }
+   .main-pricing-section-right{
+       display: inline-block;
+       float: right;
+       margin-top: 120px;
+       width: 45%;
+   }
+   /* Pricing Price Section */
+   .pricing-price-banner{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #d8f0fd 100%) !important;
+    background-size: contain;
+    background-position: center bottom 0px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    padding: 0;
+   }
+   .pricing-price-section{
+    padding: 54px 0px 67.911px;
+   }
+   .pricing-price-section-contents{
+    display: flex;
+    margin: 30px 20px 0px;
+    padding: 27px 0px;
+    justify-content: space-between;
+   }
+   .pricing-price-section-content-card{
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+   }
+   .pricing-card-intro{
+    padding: 0px 40px;
+    background: linear-gradient(to right, #ffffff, #f6f6f6);
+    width: 100%;
+    height: 50.19px;
+    border-radius: 24px 24px 0px 0px;
+    margin-left: 1px;
+    display: flex;
+    align-items: center;
+   }
+   .pricing-card-blue-intro{
+    padding: 0px 40px;
+    background-color: #2970fa;
+    width: 100%;
+    height: 50.19px;
+    border-radius: 24px 24px 0px 0px;
+    margin-left: 1px;
+    display: flex;
+    align-items: center;
+   }
+   .pricing-card-blue-intro h4{
+    padding: 0px 0px 5px;
+    color: #ffffff;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 0px;
+   }
+   .pricing-card-intro h4{
+    padding: 0px 0px 5px;
+    color: #ff8f00;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 0px;
+   }
+   .pricing-green-intro{
+    color: #29cf8d !important;
+   }
+   .pricing-card-price{
+    padding: 17px 40px 30px;
+    background: linear-gradient(to right, #ffffff, #f6f6f6);
+    width: 100%;
+   }
+   .price-card-text{
+    padding: 30px 40px;
+    background: linear-gradient(to right, #ffffff, #f6f6f6);
+    width: 100%;
+    padding-top: 10px;
+   }
+   .pricing-card-button{
+    padding: 0px 40px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: linear-gradient(to right, #ffffff, #f6f6f6);
+    margin-top: -1px;
+   }
+   .pricing-card-button button{
+    background-color: #ff8f001a;
+    color: #ff8f00;
+   }
+   .pricing-card-btn{
+    color: #ff8f00 !important;
+    width: 150px;
+   }
+   .pricing-btn-2{
+    background-color: #ff8f00 !important;
+    color: #ffffff !important;
+   }
+   .pricing-card-blue-btn{
+    color: #ffffff !important;
+    width: 150px;
+    background-color: #2970fa !important;
+   }
+   .pricing-card-green-btn{
+    color: #29cf8d !important;
+    width: 150px;
+    background-color: #29cf8d1a !important;
+   }
+   .pricing-content-text-ul-padding-bottom-0{
+    padding-bottom: 0px;
+   }
+   .pricing-card-bottom{
+    width: 135.8%;
+    height: 20px;
+    background: linear-gradient(to right, #ffffff, #f6f6f6);
+    border-radius: 0px 0px 24px 24px;
+   }
+   .pricing-section-bottom{
+    padding: 27px 0px;
+    display: flex;
+   }
+   .pricing-section-bottom-text{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    padding: 0px 0px 10px;
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+   }
+   .pricing-content-bottom-button{
+    width: 25%;
+    display: flex;
+    padding: 0px 0px 10px;
+    align-items: center;
+    justify-content: center;
+   }
+   .pricing-content-bottom-button button{
+    background-color: #263547;
+   }
+
+   /* Pricing Our Features Section */
+   .pricing-our-features-section{
+    padding: 54px 0px;
+    padding-top: 100px;
+   }
+   .pricing-our-features-content-line{
+    display: flex;
+    padding: 27px 40px;
+    justify-content: space-between;
+   }
+   .pricing-our-features-content-line-card{
+    display: flex;
+    width: 30%;
+   }
+   .pricing-our-features-content-line-card-text{
+    padding: 0px 0px 0px 15px;
+   }
+   .pricing-our-features-content-line-card-text span{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
+    padding: 0px 0px 10px;
+   }
+   .pricing-our-features-content-line-card-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    width: 90%;
+    margin: 0;
+    padding: 12px 0px;
+   }
+
+   /* Choose Reason Section */
+   .choose-reason-banner-1{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-02.png), linear-gradient(237deg, #000a0c 0%, #0752fe 100%) !important;
+    background-repeat: no-repeat;
+    height: 1900px;
+}
+.choose-reason-contents{
+    padding: 229.2px 0px 122.24px;
+}
+.choose-reason-contents h4{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    padding: 0px 0px 10px;
+    color: #ffffff;
+    width: 60%;
+    line-height: 1.4em;
+    text-align: center;
+    text-align-last: center;
+    margin-bottom: 0;
+}
+.choose-reason-contents p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    width: 58%;
+    text-align: justify;
+    line-height: 2em;
+    text-align-last: center;
+}
+    
+.choose-reason-introduction{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 60px;
+}
+
+.choose-reason-content-first{
+    display: flex;
+    padding: 27px 60px;
+}
+.choose-reason-content-first-text{
+    width: 50%;
+}
+.choose-reason-content-first-text h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 16px;
+    color: #ffffff66;
+    text-transform: uppercase;
+}
+.choose-reason-content-first-text h3{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 38px;
+    color: #ffffff;
+    line-height: 1.4em;
+    margin-top: auto;
+}
+.choose-reason-content-first-text-main-text{
+    display: flex;
+    padding-bottom: 16px;
+}
+.choose-reason-content-first-text-main-text-words{
+    padding: 0px 0px 0px 15px;
+}
+.choose-reason-content-first-text-main-text-words span{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 0px 0px 10px;
+}
+.choose-reason-content-first-text-main-text-words p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    width: 95%;
+    margin: 0;
+    padding: 12px 0px;
+    text-align: left !important;
+    text-align-last: left;
+}
+.choose-reason-content-first-text-image{
+    padding-top: 13.28px;
+    padding-left: 40px;
+}
+.choose-reason-content-first-text-image img{
+    width: 510.3px;
+    height: 433.75px;
+}
+.choose-reason-content-second{
+    display: flex;
+    padding: 37px 60px;
+}
+.choose-reason-content-second-image img{
+    width: 510.3px;
+    height: 510.3px;
+}
+.choose-reason-content-second-text{
+    padding-left: 60px;
+    width: 100%;
+}
+.choose-reason-content-second-text h2{
+    margin: auto;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffffff66;
+    text-transform: uppercase;
+    padding: 0px 25px 0px 0px;
+}
+.choose-reason-content-second-text h3{
+    margin: auto;
+    padding: 25px 0px;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.choose-reason-content-second-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 0;
+    width: 100%;
+    text-align-last: left;
+}
+
+.pricing-section-information-check-info{
+    display: flex;
+    margin-top: 31px;
+}
+.pricing-section-information-check-info-check-sign{
+    color: #ff8f00;
+    font-size: 22px;
+}
+.pricing-section-information-check-info-text-item{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-left: 25px;
+    width: 100%;
+}
+
+/* Pricing Domain Section */
+.pricing-domain-section{
+    padding: 108px 0px 54px 0px;
+}
+.pricing-domain-section-contents-div{
+    display: flex;
+    justify-content: center;
+}
+.pricing-domain-section-contents{
+    padding: 0px 50px 0px 50px;
+    background-color: #ffffff;
+    width: 80%;
+    border-radius: 24px;
+}
+.pricing-domain-banner{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #d8f0fd 100%) !important;
+    background-size: contain;
+    background-position: center bottom 0px;
+    height: 800px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.pricing-domain-search-line{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.pricing-domain-search-line-items{
+    display: flex;
+    gap: 0;
+}
+
+.pricing-domain-search-line-item-text-input{
+    width: 430px;
+   height: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;                                                 ;
+    background: transparent;
+    margin: 0;
+    font-size: 14px;
+    line-height: normal !important;
+    color: #666;
+    border-color: #e6e6e6;
+    border: 1px solid #e6e6e6;
+}
+.pricing-domain-search-line-item-text-input:focus{
+    outline: none;
+}
+.pricing-domain-search-line-item-search-input{
+    width: 64.34px;
+    height: 20px;
+    padding: 10px;
+    font-size: 12px;
+    text-transform: capitalize !important;
+    background-color: #dddddd;
+    color: #666 !important;
+    border-radius: 0px 5px 5px 0px !important;
+    font-family: "Open Sans", Arial, sans-serif !important;
+    border: 1px solid #e6e6e6;
+    pointer-events: none;
+}
+
+.pricing-domain-contents-price{
+    padding: 30px 0px;
+}
+.pricing-domain-price-content-items{
+    padding: 27px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.price-blue-dot{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 34px;
+    color: #2970fa;
+}
+.domain-name{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 28px;
+    color: #000000;
+    font-weight: 600;
+}
+.domain-price{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 14px;
+    color: #00000066;
+    font-weight: 600;
+}

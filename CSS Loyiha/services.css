@@ -1,0 +1,352 @@
+.services-main-banner{
+    background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    min-height: 800px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.services-page-introduction-section{
+    padding: 190px 0px 152.1px;
+}
+.services-page-introduction-section-box-contents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.services-page-intro{
+    width: 45%;
+    margin-top: -20px;
+}
+.services-page-intro h1{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 52px;
+    color: #ffffff;
+    width: 80%;
+    line-height: 1.2em;
+    margin: 0;
+}.services-page-intro p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 2em;
+    width: 110%;
+    margin-top: 0px;
+    padding: 10px 0px;
+}
+.services-page-intro-button{
+    background-color: #263547;
+}
+.services-page-introduction-section-box{
+    padding: 0px 60px;
+}
+.services-page-intro-image img{
+    width: 510.3px;
+    height: auto;
+}
+
+/* Services Our Features Section */
+.services-our-features-section{
+    padding: 54px 0px;
+    padding-top: 100px;
+   }
+   .services-our-features-content-line{
+    display: flex;
+    padding: 27px 40px;
+    justify-content: space-between;
+   }
+   .services-our-features-content-line-card{
+    display: flex;
+    width: 30%;
+   }
+   .services-our-features-content-line-card-text{
+    padding: 0px 0px 0px 15px;
+   }
+   .services-our-features-content-line-card-text span{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
+    padding: 0px 0px 10px;
+   }
+   .services-our-features-content-line-card-text p{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    width: 90%;
+    margin: 0;
+    padding: 12px 0px;
+   }
+
+   /* Hosting Plans Section */
+   .hosting-plans-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-02.png), linear-gradient(150deg, #ffba61 0%, #ffe970 100%) !important;
+    min-height: 500px;
+    background-repeat: no-repeat;
+   }
+   .hosting-plans-section-box{
+    padding: 32px 27px;
+   }
+   .hosting-plans-section-box-contents{
+    padding: 0px 30px;
+    display: flex;
+    justify-content: space-between;
+   }
+   .hosting-plans-section{
+    padding: 229.2px 0px 122.24px;
+   }
+   .hosting-plans-section-box-contents-card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+   .hosting-plans-section-box-contents-card h4{
+    padding: 0px 0px 10px;
+    text-align: center;
+   }
+   .hosting-plans-span{
+    color: #333333;
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+   }
+   .hosting-plans-button{
+    background-color: #263547;
+    width: 260px;
+   }
+   .hosting-plans-button-div{
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+   }
+
+
+/* FAQ Section */
+.services-faq-section{
+    padding: 200px 0px 54px;
+}
+.faq-questions-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.faq-questions{
+    padding: 20px 0px;
+    width: 47%;
+}
+.faq-card{
+    display: flex;
+    padding: 0px 50px 0px 0px;
+}
+.faq-question{
+    width: 100%;
+}
+.faq-question h5{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 16px;
+    color: #666666;
+}
+.faq-question-sign-plus{
+    width: 16px;
+    height: 16px;
+    background-color: #ccc;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.plus-sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.faq-line{
+    width: 91%;
+    height: 0.5px;
+    background-color: #ccc;
+    margin-top: -8px;
+}
+.padding-left-70px{
+    padding-left: 70px;
+}
+.faq-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/* Domain Section */
+.services-domain-section{
+    padding: 108px 0px 54px 0px;
+}
+.services-domain-section-contents-div{
+    display: flex;
+    justify-content: center;
+}
+.services-domain-section-contents{
+    padding: 0px 50px 0px 50px;
+    background-color: #ffffff;
+    width: 80%;
+    border-radius: 24px;
+}
+.services-domain-banner{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #d8f0fd 100%) !important;
+    background-size: contain;
+    background-position: center bottom 0px;
+    height: 800px;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.services-domain-search-line{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.services-domain-search-line-items{
+    display: flex;
+    gap: 0;
+}
+
+.services-domain-search-line-item-text-input{
+    width: 430px;
+   height: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;                                                 ;
+    background: transparent;
+    margin: 0;
+    font-size: 14px;
+    line-height: normal !important;
+    color: #666;
+    border-color: #e6e6e6;
+    outline: none;
+    border: 1px solid #e6e6e6;
+}
+.services-domain-search-line-item-search-input{
+    width: 64.34px;
+    height: 20px;
+    padding: 10px;
+    font-size: 12px;
+    text-transform: capitalize !important;
+    background-color: #dddddd;
+    color: #666 !important;
+    border-radius: 0px 5px 5px 0px !important;
+    font-family: "Open Sans", Arial, sans-serif !important;
+    border: 1px solid #e6e6e6;
+    pointer-events: none;
+
+}
+
+.services-domain-contents-price{
+    padding: 30px 0px;
+}
+.services-domain-price-content-items{
+    padding: 27px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.price-blue-dot{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 34px;
+    color: #2970fa;
+}
+.domain-name{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 28px;
+    color: #000000;
+    font-weight: 600;
+}
+.domain-price{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 14px;
+    color: #00000066;
+    font-weight: 600;
+}
+
+/* 30 Days Free Hosting */
+.services-get-30-days-banner{
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-12.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
+    min-height: 740px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    vertical-align: baseline;
+    margin-top: 80px;
+}
+.services-get-30-days-section{
+    padding: 305.6px 0px 100px;
+}
+.services-get-30-days-section-box{
+    padding: 0px 70px;
+}
+.hosting-and-button-line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hosting-and-button-line h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 42px;
+    padding: 0px 0px 10px;
+    color: #ffffff;
+}
+.services-section-free-hosting-button{
+    background-color: #263547;
+}
+
+.services-free-hosting-get-in-touch-box{
+    background-color: #ffffff;
+    border-radius: 24px;
+    padding: 40px;
+    margin-top: 50px;
+}
+.get-in-touch-box-contents h3{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 38px;
+    color: #333333;
+    margin: 0;
+    padding: 10px 0px 25px;
+}
+.get-in-touch-inputs input{
+    width: 440.1px !important;
+    padding: 16px;
+    height: auto;
+    background-color: #f8fafe;
+    border-color: #d5e1fa;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #d5e1fa;
+}
+.get-in-touch-inputs input:focus{
+    outline: none;
+}
+.get-in-touch-inputs{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0px;
+}
+.get-in-touch-textarea{
+    padding: 15px 0px;
+}
+.get-in-touch-textarea textarea{
+    width: 96.5%;
+    height: 150px;
+    border-radius: 5px;
+    border: 1px solid #d5e1fa;
+    background-color: #f8fafe;
+    font-family: "Open Sans", Arial, sans-serif;
+    padding: 16px;
+}
+.get-in-touch-textarea textarea:focus{
+    outline: none;
+}
+.get-in-touch-button{
+    display: flex;
+    justify-content: end;
+    padding-top: 5px;
+}
+.get-in-touch-button button{
+    width: 120px;
+}
